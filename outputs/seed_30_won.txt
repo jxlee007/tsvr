@@ -1,0 +1,41 @@
+Enter an integer to pass to the seed() function: 30
+
+    ♦ T     ♦ 9
+    ♠ J     ♣ Q
+
+    ♦ A     ♣ 8
+    ♠ J     ♣ Q
+
+    ♦ A     ♥ T
+    ♠ J     ♦ Q
+
+    ♥ Q     ♥ T
+    ♠ J     ♠ 8
+
+    ♠ 7     ♦ 8
+    ♠ A     ♣ A
+
+    ♣ 7     ♦ 8
+    ♥ A     ♣ A
+
+    ♠ Q     ♦ 8
+    ♥ A     ♦ K
+
+    ♠ Q     ♥ 9
+    ♥ A     ♥ J
+
+    ♠ Q     ♠ T
+    ♣ K     ♥ J
+
+    ♦ J     ♥ 8
+    ♣ K     ♥ J
+
+    ♦ J     ♦ 7
+    ♣ K     ♥ K
+
+    ♠ 9     ♣ J
+    ♣ K     ♥ K
+
+    ♠ 9     ♠ K
+    ♥ 7     ♥ K
+So glad that you won! 🎉

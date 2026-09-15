@@ -5,5 +5,6 @@ got mail  @ 10.00
 - deal = what 4 initial cards you get 
 - seed is starting point of randomness making shuffle is now reproducible & testable  
 - Same seed = same shuffle = same result every time
-- for this we use seed feature of random package
+- for this we use seed and shuffle
+ feature of random package
           @ 4.00 - 6
