@@ -1,5 +1,0 @@
-Enter an integer to pass to the seed() function: 6
-
-    ♥ 9     ♣ 7
-    ♠ Q     ♦ 8
-So sorry that you lost! 😞
